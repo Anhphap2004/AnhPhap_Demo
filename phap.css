@@ -1,0 +1,21 @@
+h1{
+    color: orangered;
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    display: inblock;
+    /* text-align: center;
+    line-height: 500px; */
+  position: relative;
+  
+}
+div
+{
+    position: absolute;
+    
+    background-color: blue;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+}
